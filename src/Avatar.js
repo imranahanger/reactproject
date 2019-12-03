@@ -6,7 +6,7 @@ const Avatar = (props) => {
     const avatarlistarray = [
         {
             id: 1,
-            name: "imran",
+            name: "Imran",
             profession: "Software developer"
         },
         {
@@ -31,7 +31,7 @@ const Avatar = (props) => {
         />
     })
     return (
-        <div>
+        <div className="mainpage">
             <h1>Welcome to Avatar world </h1>
             {resultArray}
             <button>Subscribe</button>

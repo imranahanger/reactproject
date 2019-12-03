@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Solway');
+.mainpage{widows: 90%; height:100vh; margin: auto;font-family: 'Solway', serif;}
+.mainpage h1{margin: 0; padding: 20px 0; text-align: center;}
 .avatarstyle img{
     width: 250px; 
     height: 250px
